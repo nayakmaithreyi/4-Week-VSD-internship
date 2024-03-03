@@ -23,4 +23,10 @@ Waveform
 
 ![waveform_uart](https://github.com/nayakmaithreyi/4-Week-VSD-internship/assets/160585878/ccf5b06c-88ed-4668-87c5-f5664da1b150)
 
-# Task 3-
+# Task 3
+
+![task3](https://github.com/nayakmaithreyi/4-Week-VSD-internship/assets/160585878/3fd9b911-cdf0-4976-8a95-7b1da9790d10)
+
+![Screenshot 2024-03-03 115401](https://github.com/nayakmaithreyi/4-Week-VSD-internship/assets/160585878/bcc48322-6eed-4c8d-895a-46420391f1bc)
+
+
