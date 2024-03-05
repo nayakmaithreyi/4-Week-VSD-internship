@@ -125,3 +125,4 @@ sudo apt-get install gtkwave
 ![Screenshot 2024-03-04 204936](https://github.com/nayakmaithreyi/4-Week-VSD-internship/assets/160585878/25ee449d-6017-4093-a26d-d8b4a0e989d3)
 
 ![SC2](https://github.com/nayakmaithreyi/4-Week-VSD-internship/assets/160585878/ef328afa-51fa-4dab-bace-87e0c92b8b72)
+
